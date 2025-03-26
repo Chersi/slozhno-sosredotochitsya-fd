@@ -138,7 +138,7 @@
   padding-inline: var(--padding-page, 10px);
 }
 
-.article:not(:last-child){
+.article:not(:last-child) {
   margin-block-end: var(--margin-block-end-article, 50px);
 }
 
@@ -252,7 +252,7 @@
     grid-template-columns: 1fr 1fr 1fr;
   }
 
-  .article:not(:last-child){
+  .article:not(:last-child) {
     margin-block-end: var(--margin-block-end-article, 80px);
   }
 
@@ -336,4 +336,3 @@
     gap: 20px;
   }
 }
-
