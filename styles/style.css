@@ -105,6 +105,7 @@
 .header__theme-menu-button_active {
   outline: 1px solid var(--color-button__active, #FF0070);
   cursor: pointer;
+  pointer-events: none;
 }
 
 .heading {
@@ -210,10 +211,6 @@
 
 .footer__heading {
   text-shadow: 3px 2px 0 var(--shadow-color, #FF0070);
-}
-
-.header__theme-menu-button_active {
-  pointer-events: none;
 }
 
 @media (width >= 768px) {
