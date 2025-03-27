@@ -11,17 +11,16 @@
   */
   --background-image: url(../images/cover-image-light.png);
   --background-color: #FF8DCB;
-  --color-header__theme-menu: #353430;
-  --color-heading: #FFC2E6;
+  --color-menu: #353430;
+  --logo-color: #FFC2E6;
   --shadow-color: #FF8DCB;
-  --color-header__title: #353430;
-  --bg-color-header__title: #FF8DCB;
-  --border-color-header: #353430;
-  --color-article__heading: #353430;
-  --color-article__text: #353430;
-  --color-button__hover: #35343066;
-  --color-button__active: #353430;
-  --color-link__status: #353430;
+  --title-color: #353430;
+  --bg-color-header-title: #FF8DCB;
+  --accent-color: #353430;
+  --text-color: #353430;
+  --button-hover: #35343066;
+  --button-status: #353430;
+  --link-status: #353430;
 }
 
 .theme-light .header__lightbulb {
@@ -36,17 +35,16 @@
   :root {
   --background-image: url(../images/cover-image-light.png);
   --background-color: #FF8DCB;
-  --color-header__theme-menu: #353430;
-  --color-heading: #FFC2E6;
+  --color-menu: #353430;
+  --logo-color: #FFC2E6;
   --shadow-color: #FF8DCB;
-  --color-header__title: #353430;
-  --bg-color-header__title: #FF8DCB;
-  --border-color-header: #353430;
-  --color-article__heading: #353430;
-  --color-article__text: #353430;
-  --color-button__hover: #35343066;
-  --color-button__active: #353430;
-  --color-link__status: #353430;
+  --title-color: #353430;
+  --bg-color-header-title: #FF8DCB;
+  --accent-color: #353430;
+  --text-color: #353430;
+  --button-hover: #35343066;
+  --button-status: #353430;
+  --link-status: #353430;
   }
 
 .header__lightbulb {

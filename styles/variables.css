@@ -3,32 +3,29 @@
   и их переопределение под различные устройства
 */
 :root {
-  --padding-page: 10px;
-  --background-image: url(../images/cover-image-dark.png);
-  --background-color: #000028;
-  --font-family: 'IBM Plex Mono', sans-serif;
-  --color-header__lightbulb: #FF0070;
-  --color-header__theme-menu: #FF0070;
   --color-heading: #DB00FF;
-  --shadow-color: #FF0070;
-  --color-header__title: #000028;
-  --bg-color-header__title: #FF0070;
-  --border-color-header: #FF0070;
+  --background-color: #000028;
+  --background-image: url(../images/cover-image-dark.png);
   --font-size: 18px;
-  --color-article__heading: #FF0070;
-  --color-article__text: #F1B2CE;
-  --margin-block-end-article: 50px;
-  --margin-block-end-article__heading: 20px;
-  --margin-block-end-article__text: 20px;
-  --margin-block-end-header: 40px;
-  --margin-block-end-article__title: 10px;
-  --margin-block-end-main: 40px;
   --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --font-family: 'IBM Plex Mono', sans-serif;
   --line-height-heading: 82.5%;
   --line-height-text: 1.3 ;
-  --color-button__hover: #FF007066;
-  --color-button__active: #FF0070;
-  --color-link__status: #F1B2CE;
+  --title-color: #000028;
+  --shadow-color: #FF0070;
+  --button-hover: #FF007066;
+  --link-status: #F1B2CE;
+  --button-status: #FF0070;
+  --text-color: #F1B2CE;
+  --accent-color: #FF0070;
+  --bg-color-header-title: #FF0070;
+  --color-menu: #FF0070;
+  --padding-page: 10px;
+  --margin-block-end: 20px;
+  --margin-block-end-header: 40px;
+  --margin-block-end-main: 40px;
+  --margin-block-end-article: 50px;
+  --margin-block-end-article__title: 10px;
 }
 
 @media (width >= 768px) {

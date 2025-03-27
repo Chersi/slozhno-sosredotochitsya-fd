@@ -11,17 +11,16 @@
   */
   --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
-  --color-header__theme-menu: #FF0070;
-  --color-heading: #DB00FF;
+  --color-menu: #FF0070;
+  --logo-color: #DB00FF;
   --shadow-color: #FF0070;
-  --color-header__title: #000028;
-  --bg-color-header__title: #FF0070;
-  --border-color-header: #FF0070;
-  --color-article__heading: #FF0070;
-  --color-article__text: #F1B2CE;
-  --color-button__hover: #FF007066;
-  --color-button__active: #FF0070;
-  --color-link__status: #F1B2CE;
+  --title-color: #000028;
+  --bg-color-header-title: #FF0070;
+  --accent-color: #FF0070;
+  --text-color: #F1B2CE;
+  --button-hover: #FF007066;
+  --button-status: #FF0070;
+  --link-status: #F1B2CE;
 }
 
 .theme-dark .header__lightbulb {
