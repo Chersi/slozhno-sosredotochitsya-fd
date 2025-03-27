@@ -74,6 +74,10 @@
   color: var(--color-menu, #FF0070);
 }
 
+.header__theme-menu-item {
+  font-family: var(--font-family, 'IBM Plex Mono', sans-serif);
+}
+
 .header__theme-menu-button {
   margin-block-end: 13px;
   border: none;
