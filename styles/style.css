@@ -51,6 +51,7 @@
 }
 
 .header__lightbulb::before {
+  font-family: var(--font-family, 'IBM Plex Mono', sans-serif);
   content: "REC";
   position: absolute;
   color: var(--accent-color, #FF0070);
