@@ -211,7 +211,7 @@
   gap: 10px;
 }
 
-.article__gallery__title{
+.article__gallery__title {
   margin-block-end: var(--margin-block-end, 20px);
 }
 
