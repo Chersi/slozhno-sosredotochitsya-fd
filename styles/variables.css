@@ -25,7 +25,7 @@
   --margin-block-end-header: 40px;
   --margin-block-end-main: 40px;
   --margin-block-end-article: 50px;
-  --margin-block-end-article__title: 10px;
+  --margin-block-end-article-title: 10px;
 }
 
 @media (width >= 768px) {
