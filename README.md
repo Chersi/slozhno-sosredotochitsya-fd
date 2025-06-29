@@ -9,13 +9,13 @@
 * Реализация адаптивной верстки подходом "Mobile first" и с помощью медиазапросов "@media".
 * Реализована функция переключения тем.
 * Работа с псевдоклассами:
-    1. :hover
-    2. :active
-    3. :focus
-    4. :focus-visible
+    - :hover
+    - :active
+    - :focus
+    - :focus-visible
 * Работа с псевдоэлементами:
-    1. ::before
-    2. ::after
+    - ::before
+    - ::after
 
 
 :white_check_mark: Используется семантическая разметка.
